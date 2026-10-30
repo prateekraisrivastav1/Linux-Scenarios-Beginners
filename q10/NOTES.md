@@ -1,0 +1,1 @@
+q10 creates a real local account/group in the Killercoda container. Cleanup from the bundle root with `./cleanup-users.sh` (as root). Do not use this on a real server.
